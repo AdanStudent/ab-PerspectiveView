@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ab-PerspectiveView", "ab-PerspectiveView\", "{939A060F-9A18-45EB-9F35-EC6DFB232520}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_17210"
+		Debug.AspNetCompiler.PhysicalPath = "ab-PerspectiveView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17210\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_17210"
+		Release.AspNetCompiler.PhysicalPath = "ab-PerspectiveView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17210\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "17210"
+		SlnRelativePath = "ab-PerspectiveView\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939A060F-9A18-45EB-9F35-EC6DFB232520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939A060F-9A18-45EB-9F35-EC6DFB232520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8F1ADB-D9D7-4136-86C0-F48A8D22E8D6}
+	EndGlobalSection
+EndGlobal
